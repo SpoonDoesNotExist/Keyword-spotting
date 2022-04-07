@@ -730,7 +730,7 @@ for n in range(TaskConfig.num_epochs):
 ```
 
 
-![png](KWS_files/KWS_37_0.png)
+![png](KWS_markdown/KWS_37_0.png)
 
 
     END OF EPOCH 19
@@ -975,7 +975,7 @@ print_model_size(model_student)
 ```
 
 
-![png](KWS_files/KWS_47_0.png)
+![png](KWS_markdown/KWS_47_0.png)
 
 
     END OF EPOCH 19
@@ -1128,7 +1128,7 @@ print('END OF EPOCH', n)
 ```
 
 
-![png](KWS_files/KWS_57_0.png)
+![png](KWS_markdown/KWS_57_0.png)
 
 
     END OF EPOCH 19
