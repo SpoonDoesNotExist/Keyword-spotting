@@ -1,1 +1,1 @@
-# Keyword-spotting
+# Keyword-spotting quantization
